@@ -1,0 +1,1 @@
+Hello World!Great! I am creating a file from IO language. Isn't it fabulous?It's quite easy to create the file in IO just like we did in the Ruby language.
